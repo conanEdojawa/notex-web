@@ -1,0 +1,22 @@
+{
+  "name": "gestionDesNote",
+  "private": true,
+  "scripts": {
+    "start": "meteor run"
+  },
+  "dependencies": {
+    "@babel/runtime": "^7.0.0-beta.42",
+    "Validator": "^1.0.5",
+    "bcrypt": "^3.0.0",
+    "font-awesome": "^4.7.0",
+    "lodash": "^4.17.10",
+    "meteor-node-stubs": "^0.3.2",
+    "prop-types": "^15.6.2",
+    "react": "^16.4.0",
+    "react-dom": "^16.4.0",
+    "react-router": "^4.3.1",
+    "react-router-dom": "^4.3.1",
+    "simpl-schema": "^1.5.0",
+    "validator": "^10.4.0"
+  }
+}
